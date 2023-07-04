@@ -1,0 +1,8 @@
+
+#PERANCANGAN DASHBOARD VISUALISASI DATA KESEHATAN IBU DAN ANAK DI KABUPATEN JEMBER MENGGUNAKAN SPREADSHEET
+#(SPREADSHEET VISUALIZATION DASHBOARD OF MATERNAL AND CHILD HEALTH IN JEMBER REGENCY, 2021)
+
+Faculty of Public Health - University of Jember
+Undergraduate final project by: Etania Febry Kirana Putri (etaniafebry10@gmail.com)
+Supervisor: Andrei Ramani
+
