@@ -4,7 +4,7 @@
 
 <br>Faculty of Public Health - University of Jember
 <br>Undergraduate final project by: <a href = "mailto: etaniafebry10@gmail.com">Etania Febry Kirana Putri</a>
-<br>Supervisor: Andrei Ramani
+<br>Supervisor: <a href = "mailto: andreiramani@gmail.com">Andrei Ramani</a>
 <br>
 <br>
 <br>
