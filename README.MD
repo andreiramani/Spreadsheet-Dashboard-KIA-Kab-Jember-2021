@@ -6,7 +6,8 @@
 <br>Undergraduate final project by: <a href = "mailto: etaniafebry10@gmail.com">Etania Febry Kirana Putri</a>
 <br>Supervisor: <a href = "mailto: andreiramani@gmail.com">Andrei Ramani</a>
 <br>
-<br>HKI Kompilasi Data Tahun 2023, Nomor EC00202352145
+<br>HKI Kompilasi Data, Nomor EC00202352145 - Juli 2023
 <br>
+<p></p>
 <img src="ss01.jpg" alt="">
 
